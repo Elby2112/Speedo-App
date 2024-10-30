@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748296526647",
+    "project_id": "speedotry-18a9d",
+    "storage_bucket": "speedotry-18a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748296526647:android:4f32134b5705bbc28558b2",
+        "android_client_info": {
+          "package_name": "com.example.speedon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748296526647-vo2fu6nmhqk5mnc90mifk8cmtkct9i30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPfaTmcDfQ3aLDVs00ZkczlORCab7x-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748296526647-vo2fu6nmhqk5mnc90mifk8cmtkct9i30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

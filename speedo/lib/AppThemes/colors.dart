@@ -1,0 +1,19 @@
+import 'package:flutter/material.dart';
+
+
+
+
+const Color primaryBlue = Color.fromARGB(255, 41, 171, 226);
+const Color secondaryBlue = Color.fromARGB(255, 28, 118, 219);
+const Color white = Color.fromARGB(255, 255, 255, 255);
+const Color boxcolor = Color.fromARGB(255, 245, 245, 245);
+const Color black = Color.fromARGB(255, 0, 0, 0);
+const Color primaryOrange = Color.fromARGB(255, 251, 188, 5);
+const Color secondaryOrange = Color.fromARGB(255, 225, 135, 0);
+const Color littleTitles = Color.fromARGB(255, 106, 121, 138);
+const Color iconclear = Color.fromARGB(255, 106, 121, 138);
+Color? mygrey = Colors.grey[200];
+const Color circlegrey = Color.fromARGB(255, 214, 209, 209);
+Color? orange = Colors.amber[900];
+
+const String apiKey = "AIzaSyCWoMZpHYqXuLvXpw7Tn8xRz1Vch_Km8gg";
